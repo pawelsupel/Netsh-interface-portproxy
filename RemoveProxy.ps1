@@ -1,0 +1,1 @@
+netsh int portproxy reset all
